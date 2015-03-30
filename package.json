@@ -1,0 +1,39 @@
+{
+  "name": "in2js",
+  "version": "0.0.1",
+  "description": "a toolkit for developing in express.js ",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./node_modules/.bin/mocha ./test/index.js"
+  },
+  "dependencies": {
+    "js-yaml" : "3.2.7",
+    "async": "latest",
+    "commander" : "~2.6.0",
+    "cli-color": "latest",
+    "markdown-it" : "~4.0.0",
+    "moment" : "~2.4.0",
+    "imagemagick": "latest",
+    "MD5" : "latest",
+    "string" : "latest",
+    "promptly" : "latest",
+    "recursive-readdir" : "latest"
+  },
+  "devDependencies": {
+    "mocha" : "~2.0.1",
+    "should" : "~3.3.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:in2dream/in2-js.git"
+  },
+  "keywords": [
+    "in2dream"
+  ],
+  "author": "in2dream",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/in2dream/in2-js/issues"
+  },
+  "homepage": "https://github.com/in2dream/in2-js"
+}
