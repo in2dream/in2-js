@@ -16,7 +16,7 @@
     "imagemagick": "latest",
     "MD5" : "latest",
     "string" : "latest",
-    "promptly" : "latest",
+    "prompt" : "latest",
     "recursive-readdir" : "latest"
   },
   "devDependencies": {
